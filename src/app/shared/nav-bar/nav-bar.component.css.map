@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,GAAI;EACF,gBAAgB,EAAE,KAAK;EACvB,WAAW,EAAE,qBAAqB",
-"sources": ["nav-bar.component.scss"],
-"names": [],
-"file": "nav-bar.component.css"
-}
