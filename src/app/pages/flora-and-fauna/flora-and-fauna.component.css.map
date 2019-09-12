@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAAc;EACZ,aAAa,EAAE,IAAI;EACnB,aAAa,EAAE,MAAM;EACrB,eAAe,EAAE,KAAK;EACtB,KAAK,EAAE,KAAK;;AAGd,iBAAkB;EAChB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,KAAK;;AAGnB,WAAY;EACV,MAAM,EAAE,MAAM;;AAGhB,aAAc;EACZ,UAAU,EAAE,MAAM;EAClB,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM",
+"sources": ["flora-and-fauna.component.scss"],
+"names": [],
+"file": "flora-and-fauna.component.css"
+}

@@ -1,0 +1,19 @@
+<section class="banner">
+
+  <app-nav-bar></app-nav-bar>
+
+  <img src="assets/images/background/flower2.jpg" alt="" class="img-fluid">
+</section>
+
+<div class="container-fluid">
+
+  <div class="masonry-demo mt-5">
+    <ngx-masonry [options]="masonryOptions" [useImagesLoaded]="true">
+
+      <div ngxMasonryItem *ngFor="let picture of pictures" class="masonry-item">
+        <app-image [imageUrl]="picture.getImageUrl()"></app-image>
+      </div>
+    </ngx-masonry>
+  </div>
+
+</div>
